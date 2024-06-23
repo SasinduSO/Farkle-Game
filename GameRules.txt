@@ -1,0 +1,22 @@
+*******************************************************************************************************
+1#	To begin, the player must roll all six dice to generate six random numbers ranging from 1 to 6.
+*******************************************************************************************************
+2#	They then set aside at least one point-scoring die (a single 1 or 5, or 3-of-a-kind). 
+	For each player's turn, the points are kept in a running total. 
+	These dice cannot be rolled again until all six dice have been placed aside.
+*******************************************************************************************************
+3#	The player has two options: roll the dice or score his or her points.
+********************************************************************************************************	
+#4	If they choose to score, their turn finishes with the running total added to their player score.
+	Only the dice that haven't been set aside are rolled again if they roll again.
+	Steps 2 and 3 can be performed as many times as the player wants until all 6 dice are used.
+	or a Farkle is rolled (# 5).
+********************************************************************************************************
+#5	A Farkle is a roll with no scoring values; the player cannot take a single 1 or 5,
+	or a three-of-a-kind combination. When this happens, the player's turn is over and the points 
+	rolled during that turn are not scored. Their previously saved score remains unchanged.
+********************************************************************************************************
+#6	If the player puts all six dice aside, they can start over with all six dice
+	and continue scoring as before. 
+	Steps 2 and 3 can be done as many times as the player wants.
+********************************************************************************************************
